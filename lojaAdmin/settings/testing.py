@@ -1,3 +1,4 @@
+import os
 from .settings import *
 DEBUG=True
 #Crie a secret key para seu ambiente de teste
